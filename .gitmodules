@@ -1,0 +1,4 @@
+[submodule "OCA/dms"]
+	path = OCA/dms
+	url = git@github.com:OCA/dms.git
+	branch = 15.0
